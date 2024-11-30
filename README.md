@@ -18,5 +18,5 @@ The repository is organized as follows:
   - T-Test, Z-Test, ANOVA and Corealtion/Regression
 
 - **Assignment 4**:
-  - DA1 Day 4 Exercise
+  - DA1 Exercise 4
   - Parkinsons_Dataset.csv
