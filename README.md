@@ -22,5 +22,5 @@ The repository is organized as follows:
   - Parkinsons_Dataset.csv
 
 - **Assignment 5/Day 7**
-  - Day 7 -> Advanced Regression Analysis and Feature Selection Analysis
+  - Day_7_ARAFS -> Advanced Regression Analysis and Feature Selection Analysis
   - house_prices.csv 
