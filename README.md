@@ -20,3 +20,7 @@ The repository is organized as follows:
 - **Assignment 4**:
   - DA1 Exercise 4
   - Parkinsons_Dataset.csv
+
+- **Assignment 5/Day 7**
+  - Day 7 -> Advanced Regression Analysis and Feature Selection Analysis
+  - house_prices.csv 
