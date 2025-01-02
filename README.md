@@ -30,10 +30,18 @@ The repository is organized as follows:
   - Day_8_Tree_and_Classification.ipynb
   - house_price.csv
 
-- **Assignment 7**
+- **Assignment 7(Group Exercise)**
   - Group_Exercise_2_Neural_Networks.ipynb
   - Healthcare_Neural_Networks.csv
  
 - **Assignment 8**
   - Day_13-15_time_series_analysis.ipynb
-  - World_Population_Migration.csv   
+  - World_Population_Migration.csv
+
+ - **Assignment 9(Group Exercise)**
+  - Group_Exercise_2_Neural_Networks.ipynb
+  - Healthcare_Neural_Network.csv
+
+- **Assignment 10**
+  - Day_13-15_time_series_analysis.ipynb
+  - world_pop_mig_186_countries.csv
