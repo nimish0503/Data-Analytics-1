@@ -39,8 +39,8 @@ The repository is organized as follows:
   - World_Population_Migration.csv
 
  - **Assignment 9(Group Exercise)**
-  - Group_Exercise_2_Neural_Networks.ipynb
-  - Healthcare_Neural_Network.csv
+   - Group_Exercise_2_Neural_Networks.ipynb
+   - Healthcare_Neural_Network.csv
 
 - **Assignment 10**
   - Day_13-15_time_series_analysis.ipynb
