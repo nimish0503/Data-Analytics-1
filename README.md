@@ -31,7 +31,7 @@ The repository is organized as follows:
   - house_price.csv
 
 - **Assignment 7(Group Exercise)**
-  - Group_Exercise_2_Neural_Networks.ipynb
+  - GroupExercise2_NeuralNetworks.ipynb
   - Healthcare_Neural_Networks.csv
  
 - **Assignment 8**
