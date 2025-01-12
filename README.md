@@ -33,6 +33,7 @@ The repository is organized as follows:
  - **Assignment 7(Group Exercise)**
    - Group_Exercise_2_Neural_Networks.ipynb
    - Healthcare_Neural_Network.csv
+   - ProjectReport_NeuralNetwork(GroupExercise).pdf
 
 - **Assignment 8**
   - Day_13-15_time_series_analysis.ipynb
