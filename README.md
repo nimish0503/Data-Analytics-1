@@ -9,20 +9,20 @@ This repository contains all the assignments for the Data Analytics 1 course.
 The repository is organized as follows:
 
 - **Assignment 1**:
-  - Real World Data Analysis
+  - Assignment_1_Real_World_Data_Analysis.ipynb
 
 - **Assignment 2**:
-  - Central Limit Theorem and Sampling Methods
+  - Assignment_2_Central_Limit_Theorem_and_Sampling_Methods.ipynb
   
 - **Assignment 3**:
-  - T-Test, Z-Test, ANOVA and Corealtion/Regression
+  - Assignment_3_T_Test,_Z_Test,_ANOVA_and_Corealtion_Regression.ipynb
 
 - **Assignment 4**:
-  - DA1 Exercise 4
+  - Assignment_4_DA1.ipynb
   - Parkinsons_Dataset.csv
 
 - **Assignment 5(Group Exercise)**
-  - Day_7_ARAFS -> Advanced Regression Analysis and Feature Selection Analysis
+  - Day_7_ARAFS.ipynb -> Advanced Regression Analysis and Feature Selection Analysis
   - house_prices.csv
   - Day_7_ARAFS_Report.pdf
      
